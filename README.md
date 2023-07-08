@@ -1,5 +1,5 @@
 # magento-shipping-restrictions
-Magento 2 Shipping Restrictions extension helps to restrict unnecessary shipping methods. This extension allows to restrict shipping methods by store, product attributes, order information, cart, country, coupon code and customer group. etc.
+Magento 2 Shipping Restrictions extension helps you manage which shipping methods are available. You can set rules to restrict shipping methods based on store, product attributes, order information, cart, country, coupon code and customer group
 
 Please go to https://magehq.com/shipping-restrictions.html buy extension
 
